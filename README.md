@@ -3,9 +3,9 @@ Try and Code Consistently For 100 Days !
 
 15 Sept --  Day 1   --   Stack Implementation Using Array
 16 Sept --  Day 2   --   Queue Implementation Using Array
-17 Sept --  Day 3   --
-18 Sept --  Day 4   --
-19 Sept --  Day 5   --
+17 Sept --  Day 3   --   Circular Queue Implementation Using Array
+18 Sept --  Day 4   --   Simple iteration problem to find cheapest cab option with help of fairs of each
+19 Sept --  Day 5   --   
 20 Sept --  Day 6   --
 21 Sept --  Day 7   --
 22 Sept --  Day 8   --
