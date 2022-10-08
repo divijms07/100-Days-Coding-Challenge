@@ -1,7 +1,7 @@
 # 100-Days-Coding-Challenge
 Try and Code Consistently For 100 Days !
 
-15 Sept --  Day 1   --   
+15 Sept --  Day 1   --   Stack Implementation Using Array
 16 Sept --  Day 2   --
 17 Sept --  Day 3   --
 18 Sept --  Day 4   --
