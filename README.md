@@ -2,7 +2,7 @@
 Try and Code Consistently For 100 Days !
 
 15 Sept --  Day 1   --   Stack Implementation Using Array
-16 Sept --  Day 2   --
+16 Sept --  Day 2   --   Queue Implementation Using Array
 17 Sept --  Day 3   --
 18 Sept --  Day 4   --
 19 Sept --  Day 5   --
