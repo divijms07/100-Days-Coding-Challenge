@@ -5,9 +5,9 @@ Try and Code Consistently For 100 Days !
 16 Sept --  Day 2   --   Queue Implementation Using Array
 17 Sept --  Day 3   --   Circular Queue Implementation Using Array
 18 Sept --  Day 4   --   Simple iteration problem to find cheapest cab option with help of fairs of each
-19 Sept --  Day 5   --   
-20 Sept --  Day 6   --
-21 Sept --  Day 7   --
+19 Sept --  Day 5   --   Simple Inheritance Java
+20 Sept --  Day 6   --   Method Override Java
+21 Sept --  Day 7   --   
 22 Sept --  Day 8   --
 23 Sept --  Day 9   --
 24 Sept --  Day 10  --
