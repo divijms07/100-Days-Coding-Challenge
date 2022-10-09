@@ -10,10 +10,10 @@ Try and Code Consistently For 100 Days !
 21 Sept --  Day 7   --   
 22 Sept --  Day 8   --
 23 Sept --  Day 9   --
-24 Sept --  Day 10  --
-25 Sept --  Day 11  --
-26 Sept --  Day 12  --
-27 Sept --  Day 13  --
+24 Sept --  Day 10  --   Code Chef Cakewalk Program
+25 Sept --  Day 11  --   Code Chef Cakewalk Program
+26 Sept --  Day 12  --   Code Chef Cakewalk Program
+27 Sept --  Day 13  --   Code Chef Cakewalk Program
 28 Sept --  Day 14  --
 29 Sept --  Day 15  --
 30 Sept --  Day 16  --
