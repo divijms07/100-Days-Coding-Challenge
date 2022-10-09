@@ -7,9 +7,9 @@ Try and Code Consistently For 100 Days !
 18 Sept --  Day 4   --   Simple iteration problem to find cheapest cab option with help of fairs of each
 19 Sept --  Day 5   --   Simple Inheritance Java
 20 Sept --  Day 6   --   Method Override Java
-21 Sept --  Day 7   --   
-22 Sept --  Day 8   --
-23 Sept --  Day 9   --
+21 Sept --  Day 7   --   LinkedList Insert Part
+22 Sept --  Day 8   --   LinkedList Delete Part (entire peog)
+23 Sept --  Day 9   --   Palindrome Check Using Stack
 24 Sept --  Day 10  --   Code Chef Cakewalk Program
 25 Sept --  Day 11  --   Code Chef Cakewalk Program
 26 Sept --  Day 12  --   Code Chef Cakewalk Program
