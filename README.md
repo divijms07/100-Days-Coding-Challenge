@@ -19,9 +19,9 @@ Try and Code Consistently For 100 Days !
 30 Sept --  Day 16  --   Stack Example Java
 1  Oct  --  Day 17  --   Inner/Outer Class Calling
 2  Oct  --  Day 18  --   Nested Interface
-3  Oct  --  Day 19  --   
-4  Oct  --  Day 20  --
-5  Oct  --  Day 21  --
+3  Oct  --  Day 19  --   Postfix Evaluation Using Array
+4  Oct  --  Day 20  --   Postfix Evaluation- II
+5  Oct  --  Day 21  --   
 6  Oct  --  Day 22  --
 7  Oct  --  Day 23  --
 8  Oct  --  Day 24  --
