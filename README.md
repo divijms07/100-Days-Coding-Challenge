@@ -23,7 +23,7 @@ Try and Code Consistently For 100 Days !
 4   Oct  --  Day 20  --   Postfix Evaluation- II
 5   Oct  --  Day 21  --   Recursion-I Java
 6   Oct  --  Day 22  --   Exception Handling (Arithmetic Error)
-7   Oct  --  Day 23  --   
+7   Oct  --  Day 23  --   Simple Calci Usung Switch
 8   Oct  --  Day 24  --   Recursion -II Java
 9   Oct  --  Day 25  --   
 10  Oct  --  Day 26  -- 
