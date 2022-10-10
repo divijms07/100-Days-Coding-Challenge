@@ -17,9 +17,9 @@ Try and Code Consistently For 100 Days !
 28 Sept --  Day 14  --   Java Name Hiding
 29 Sept --  Day 15  --   Calling Constructor Java
 30 Sept --  Day 16  --   Stack Example Java
-1  Oct  --  Day 17  --
-2  Oct  --  Day 18  --
-3  Oct  --  Day 19  --
+1  Oct  --  Day 17  --   Inner/Outer Class Calling
+2  Oct  --  Day 18  --   Nested Interface
+3  Oct  --  Day 19  --   
 4  Oct  --  Day 20  --
 5  Oct  --  Day 21  --
 6  Oct  --  Day 22  --
