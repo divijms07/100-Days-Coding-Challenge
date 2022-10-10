@@ -25,9 +25,9 @@ Try and Code Consistently For 100 Days !
 6   Oct  --  Day 22  --   Exception Handling (Arithmetic Error)
 7   Oct  --  Day 23  --   Simple Calci Usung Switch
 8   Oct  --  Day 24  --   Recursion -II Java
-9   Oct  --  Day 25  --   
-10  Oct  --  Day 26  -- 
-11  Oct  --  Day 27  -- 
-12  Oct  --  Day 28  -- 
+9   Oct  --  Day 25  --   Database Connect (jdbc)
+10  Oct  --  Day 26  --   String Demo (intro)
+11  Oct  --  Day 27  --   String Demo2 (strlen)
+12  Oct  --  Day 28  --   
 13  Oct  --  Day 29  -- 
 14  Oct  --  Day 30  -- 
