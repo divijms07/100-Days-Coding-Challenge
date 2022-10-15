@@ -28,8 +28,8 @@ Try and Code Consistently For 100 Days !
 9   Oct  --  Day 25  --   Database Connect (jdbc)
 10  Oct  --  Day 26  --   String Demo (intro)
 11  Oct  --  Day 27  --   String Demo2 (strlen)
-12  Oct  --  Day 28  --   
-13  Oct  --  Day 29  -- 
+12  Oct  --  Day 28  --   Interface Extension Java
+13  Oct  --  Day 29  --   Throw Demo (EXcepion) Java
 14  Oct  --  Day 30  -- 
 15  Oct  --  Day 31  -- 
 16  Oct  --  Day 32  --  
