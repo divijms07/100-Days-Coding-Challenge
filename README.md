@@ -35,7 +35,7 @@ Try and Code Consistently For 100 Days !!
 | 14  Oct  --  Day 30      |   Multi Threading Thread Demo Java
 | 15  Oct  --  Day 31      |   Abstract Demo
 | 16  Oct  --  Day 32      |   Buffered Reader Example
-| 17  Oct  --  Day 33      |
+| 17  Oct  --  Day 33      |   Multiple Exceptions (Multiple Catch)
 | 18  Oct  --  Day 34      |
 | 19  Oct  --  Day 35      |
 | 20  Oct  --  Day 36      |
