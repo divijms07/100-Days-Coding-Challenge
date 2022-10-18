@@ -36,7 +36,7 @@ Try and Code Consistently For 100 Days !!
 | 15  Oct  --  Day 31      |   Abstract Demo
 | 16  Oct  --  Day 32      |   Buffered Reader Example
 | 17  Oct  --  Day 33      |   Multiple Exceptions (Multiple Catch)
-| 18  Oct  --  Day 34      |
+| 18  Oct  --  Day 34      |   
 | 19  Oct  --  Day 35      |
 | 20  Oct  --  Day 36      |
 | 21  Oct  --  Day 37      |
@@ -50,3 +50,9 @@ Try and Code Consistently For 100 Days !!
 | 29  Oct  --  Day 45      |
 | 30  Oct  --  Day 46      |
 | 31  Oct  --  Day 47      |
+| 1   Nov  --  Day 48      |
+| 2   Nov  --  Day 49      |
+| 3   Nov  --  Day 50      |
+| 4   Nov  --  Day 51      |
+| 5   Nov  --  Day 52      |
+| 6   Nov  --  Day 53      |
