@@ -36,23 +36,23 @@ Try and Code Consistently For 100 Days !!
 | 15  Oct  --  Day 31      |   Abstract Demo
 | 16  Oct  --  Day 32      |   Buffered Reader Example
 | 17  Oct  --  Day 33      |   Multiple Exceptions (Multiple Catch)
-| 18  Oct  --  Day 34      |   
-| 19  Oct  --  Day 35      |
-| 20  Oct  --  Day 36      |
-| 21  Oct  --  Day 37      |
-| 22  Oct  --  Day 38      |
-| 23  Oct  --  Day 39      |
-| 24  Oct  --  Day 40      |
-| 25  Oct  --  Day 41      |
-| 26  Oct  --  Day 42      |
-| 27  Oct  --  Day 43      |
-| 28  Oct  --  Day 44      |
-| 29  Oct  --  Day 45      |
-| 30  Oct  --  Day 46      |
-| 31  Oct  --  Day 47      |
-| 1   Nov  --  Day 48      |
-| 2   Nov  --  Day 49      |
-| 3   Nov  --  Day 50      |
-| 4   Nov  --  Day 51      |
-| 5   Nov  --  Day 52      |
-| 6   Nov  --  Day 53      |
+| 21  Oct  --  Day 34      |   Boolean Logic Java
+| 22  Oct  --  Day 35      |
+| 23  Oct  --  Day 36      |
+| 24  Oct  --  Day 37      |
+| 25  Oct  --  Day 38      |
+| 26  Oct  --  Day 39      |
+| 27  Oct  --  Day 40      |
+| 28  Oct  --  Day 41      |
+| 29  Oct  --  Day 42      |
+| 30  Oct  --  Day 43      |
+| 31  Oct  --  Day 44      |
+| 1   Nov  --  Day 45      |
+| 2   Nov  --  Day 46      |
+| 3   Nov  --  Day 47      |
+| 4   Nov  --  Day 48      |
+| 5   Nov  --  Day 49      |
+| 6   Nov  --  Day 50      |
+| 7   Nov  --  Day 51      |
+| 8   Nov  --  Day 52      |
+| 9   Nov  --  Day 53      |
