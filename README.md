@@ -37,7 +37,7 @@ Try and Code Consistently For 100 Days !!
 | 16  Oct  --  Day 32      |   Buffered Reader Example
 | 17  Oct  --  Day 33      |   Multiple Exceptions (Multiple Catch)
 | 21  Oct  --  Day 34      |   Boolean Logic Java
-| 22  Oct  --  Day 35      |
+| 22  Oct  --  Day 35      |   Absolute Value Java
 | 23  Oct  --  Day 36      |
 | 24  Oct  --  Day 37      |
 | 25  Oct  --  Day 38      |
