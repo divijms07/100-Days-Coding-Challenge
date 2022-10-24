@@ -39,7 +39,7 @@ Try and Code Consistently For 100 Days !!
 | 21  Oct  --  Day 34      |   Boolean Logic Java
 | 22  Oct  --  Day 35      |   Absolute Value Java
 | 23  Oct  --  Day 36      |   Stack Using Linked List
-| 24  Oct  --  Day 37      |
+| 24  Oct  --  Day 37      |   Queue Using Linked List
 | 25  Oct  --  Day 38      |
 | 26  Oct  --  Day 39      |
 | 27  Oct  --  Day 40      |
