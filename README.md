@@ -41,7 +41,7 @@ Try and Code Consistently For 100 Days !!
 | 23  Oct  --  Day 36      |   Stack Using Linked List
 | 24  Oct  --  Day 37      |   Queue Using Linked List
 | 25  Oct  --  Day 38      |   Binary Tree Traversal
-| 26  Oct  --  Day 39      |
+| 26  Oct  --  Day 39      |   Binary Search Tree
 | 27  Oct  --  Day 40      |
 | 28  Oct  --  Day 41      |
 | 29  Oct  --  Day 42      |
