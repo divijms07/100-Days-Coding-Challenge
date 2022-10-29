@@ -44,7 +44,7 @@ Try and Code Consistently For 100 Days !!
 | 26  Oct  --  Day 39      |   Binary Search Tree
 | 27  Oct  --  Day 40      |   Insertion Sort Program
 | 28  Oct  --  Day 41      |   MultiThreading Practical Question
-| 29  Oct  --  Day 42      |
+| 29  Oct  --  Day 42      |   Password Validation Practical Question
 | 30  Oct  --  Day 43      |
 | 31  Oct  --  Day 44      |
 | 1   Nov  --  Day 45      |
