@@ -49,7 +49,7 @@ Try and Code Consistently For 100 Days !!
 | 31  Oct  --  Day 44      |   Teacher Practical Question
 | 1   Nov  --  Day 45      |   Vehicle Practical Question
 | 2   Nov  --  Day 46      |   Amount TO Words Practical Question
-| 3   Nov  --  Day 47      |
+| 3   Nov  --  Day 47      |   Bank Practical Question
 | 4   Nov  --  Day 48      |
 | 5   Nov  --  Day 49      |
 | 6   Nov  --  Day 50      |
