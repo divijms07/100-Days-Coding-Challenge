@@ -47,12 +47,25 @@ Try and Code Consistently For 100 Days !!
 | 29  Oct  --  Day 42      |   Password Validation Practical Question
 | 30  Oct  --  Day 43      |   Employee Practical Question
 | 31  Oct  --  Day 44      |   Teacher Practical Question
-| 1   Nov  --  Day 45      |   Vehicle Practical Question
-| 2   Nov  --  Day 46      |   Amount TO Words Practical Question
-| 3   Nov  --  Day 47      |   Bank Practical Question
-| 4   Nov  --  Day 48      |   Sports Practical Question
-| 5   Nov  --  Day 49      |
-| 6   Nov  --  Day 50      |
-| 7   Nov  --  Day 51      |
-| 8   Nov  --  Day 52      |
-| 9   Nov  --  Day 53      |
+|  1   Nov  --  Day 45     |   Vehicle Practical Question
+|  2   Nov  --  Day 46     |   Amount TO Words Practical Question
+|  3   Nov  --  Day 47     |   Bank Practical Question
+|  4   Nov  --  Day 48     |   Sports Practical Question
+|  5   Nov  --  Day 49     |
+|  6   Nov  --  Day 50     |
+|  7   Nov  --  Day 51     |
+|  8   Nov  --  Day 52     |
+|  9   Nov  --  Day 53     |
+| 10   Nov  --  Day 54     |                    
+| 11   Nov  --  Day 55     |
+| 12   Nov  --  Day 56     |
+| 13   Nov  --  Day 57     |
+| 14   Nov  --  Day 58     |
+| 15   Nov  --  Day 59     |
+| 16   Nov  --  Day 60     |
+|
+|
+|
+|
+|
+|
