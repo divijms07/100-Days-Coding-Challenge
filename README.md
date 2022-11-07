@@ -53,7 +53,7 @@ Try and Code Consistently For 100 Days !!
 |  4   Nov  --  Day 48     |   Sports Practical Question
 |  5   Nov  --  Day 49     |   Bubble Sort Program
 |  6   Nov  --  Day 50     |   Selection Sort Program
-|  7   Nov  --  Day 51     |
+|  7   Nov  --  Day 51     |   BST In/Pre/Post Order
 |  8   Nov  --  Day 52     |
 |  9   Nov  --  Day 53     |
 | 10   Nov  --  Day 54     |                    
