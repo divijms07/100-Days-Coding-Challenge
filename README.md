@@ -56,9 +56,9 @@ Try and Code Consistently For 100 Days !!
 |  7   Nov  --  Day 51     |   BST In/Pre/Post Order
 |  8   Nov  --  Day 52     |   Structure Program (Time)
 |  9   Nov  --  Day 53     |   Pascal Triangle Generation
-| 10   Nov  --  Day 54     |                    
-| 11   Nov  --  Day 55     |
-| 12   Nov  --  Day 56     |
+| 10   Nov  --  Day 54     |   Insertion Sort Program                 
+| 11   Nov  --  Day 55     |   Quick Sort Program
+| 12   Nov  --  Day 56     |   Merge Sort Program
 | 13   Nov  --  Day 57     |
 | 14   Nov  --  Day 58     |
 | 15   Nov  --  Day 59     |
