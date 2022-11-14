@@ -60,7 +60,7 @@ Try and Code Consistently For 100 Days !!
 | 11   Nov  --  Day 55     |   Quick Sort Program
 | 12   Nov  --  Day 56     |   Merge Sort Program
 | 13   Nov  --  Day 57     |   Concatenate Linked List Program
-| 14   Nov  --  Day 58     |
+| 14   Nov  --  Day 58     |   Check Prime Using Haskell
 | 15   Nov  --  Day 59     |
 | 16   Nov  --  Day 60     |
 | 17   Nov  --  Day 61     |
