@@ -61,7 +61,7 @@ Try and Code Consistently For 100 Days !!
 | 12   Nov  --  Day 56     |   Merge Sort Program
 | 13   Nov  --  Day 57     |   Concatenate Linked List Program
 | 14   Nov  --  Day 58     |   Check Prime Using Haskell
-| 15   Nov  --  Day 59     |
+| 15   Nov  --  Day 59     |   Double Ended Queue Program
 | 16   Nov  --  Day 60     |
 | 17   Nov  --  Day 61     |
 | 18   Nov  --  Day 62     |
