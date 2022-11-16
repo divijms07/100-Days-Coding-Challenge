@@ -63,20 +63,20 @@ Try and Code Consistently For 100 Days !!
 | 14   Nov  --  Day 58     |   Check Prime Using Haskell
 | 15   Nov  --  Day 59     |   Double Ended Queue Program
 | 16   Nov  --  Day 60     |   Check Prime Java Program
-| 16   Nov  --  Day 60     |   
-| 16   Nov  --  Day 60     |   
-| 17   Nov  --  Day 61     |
-| 18   Nov  --  Day 62     |
+| 17   Nov  --  Day 61     |   Net Salary Calculation Program
+| 18   Nov  --  Day 62     |   
 | 19   Nov  --  Day 63     |
 | 20   Nov  --  Day 64     |
 | 21   Nov  --  Day 65     |
 | 22   Nov  --  Day 66     |
-| 23   Nov  --  Day 67     |
-| 24   Nov  --  Day 68     |
-| 25   Nov  --  Day 69     |
-| 26   Nov  --  Day 70     |
-| 27   Nov  --  Day 71     |
-| 28   Nov  --  Day 72     |
-| 29   Nov  --  Day 73     |
-| 30   Nov  --  Day 74     |
-| 1    Dec  --  Day 75     |
+| 23   Nov  --  Day 68     |
+| 24   Nov  --  Day 69     |
+| 25   Nov  --  Day 70     |
+| 26   Nov  --  Day 71     |
+| 27   Nov  --  Day 72     |
+| 28   Nov  --  Day 73     |
+| 29   Nov  --  Day 74     |
+| 30   Nov  --  Day 75     |
+| 1    Dec  --  Day 76     |
+| 2    Dec  --  Day 77     |
+| 3    Dec  --  Day 78     |
