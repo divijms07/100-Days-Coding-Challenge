@@ -66,7 +66,7 @@ Try and Code Consistently For 100 Days !!
 | 17   Nov  --  Day 61     |   Net Salary Calculation Program
 | 18   Nov  --  Day 62     |   Finding Factors Program
 | 19   Nov  --  Day 63     |   Simple Matrix Add Java Program
-| 20   Nov  --  Day 64     |
+| 20   Nov  --  Day 64     |   Pyramid Pattern Java
 | 21   Nov  --  Day 65     |
 | 22   Nov  --  Day 66     |
 | 23   Nov  --  Day 67     |
